@@ -576,8 +576,6 @@ Characters raised in the hill dwarf culture share a variety of traits in common 
 Languages. You can speak, read, sign, and write Galactic Common and one other language. 
 
 
-
-
 ### Itinerant
 Characters raised as itinerants share a variety of traits in common with one another. 
 

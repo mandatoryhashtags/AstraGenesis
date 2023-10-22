@@ -342,6 +342,24 @@ Necrotic Channel (Transformation). As an action, you can unleash your divine ene
 
 Pack Tactics. Once per turn, you can gain advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn’t incapacitated.
 
+Adept Climber. You have a climb speed of 30ft
+
+Deep Magic (Magic). You know the dancing lights cantrip. When you reach 3rd level, you can cast the enlarge/reduce spell on yourself once with this trait, using only the spell’s enlarge option. When you reach 5th level, you can cast the invisibility spell on yourself once with this trait. You don’t need material components for these spells. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+
+Toughness. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+
+Unending Spirit. When you take the Dodge action, you can spend one Hit Die to gain temporary hit points. Roll the die, add your Constitution modifier, and gain that many temporary hit points.
+
+Deep Elf Magic (Magic). You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. You don’t require material components for these spells. Charisma is your spellcasting ability for these spells.
+
+Gifted Accuracy. You can gain advantage on a single attack roll. After you use this ability, you can’t use it again until you finish a short or long rest.
+
+Fey Step. As a bonus action, you can teleport up to 60 feet to an unoccupied space you can see. After you use this ability, you can’t use it again until you finish a short or long rest.
+
+High Elf Magic (Magic). You know one cantrip of your choice from the wizard spell list. When you reach 3rd level, you can cast the detect magic spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the levitate spell once with this trait and regain the ability to do so when you finish a long rest. You don’t require material components for these spells. Charisma is your spellcasting ability for these spells.
+
+Wood Elf Magic (Magic). You know the druidcraft cantrip. When you reach 3rd level, you can cast the longstrider spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the pass without trace spell once with this trait and regain the ability to do so when you finish a long rest. You don’t require material components for these spells. Charisma is your spellcasting ability for these spells.
+
 
 
 ### Minor Features
@@ -381,11 +399,9 @@ We Go Way Back. When you meet an NPC for the first time, you can declare that yo
 
 Borrowed Luck. You get a brief insight into the future, but it costs you. You gain a luck die, which is a d4. Whenever you make an attack roll, saving throw, or ability check, you can roll your luck die and add the result to your total. You then give the luck die to the GM. You can’t use your luck die while the GM has it. At any point, the GM can roll the luck die when you make an attack roll, saving throw, or ability check and subtract the number from your total. The GM then returns the die to you. After a long rest, you take your luck die back if you didn’t have it.
 
-Pierce the Mask. You have advantage on Wisdom (Insight) checks
-to determine a creature’s true motives.
+Pierce the Mask. You have advantage on Wisdom (Insight) checks to determine a creature’s true motives.
 
-Powerful Build. You count as one size larger when determining
-your carrying capacity and the weight you can push, drag, or lift.
+Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
 Read People. You have proficiency in the Insight skill.
 
@@ -459,8 +475,6 @@ Magical Crafter. You have proficiency in one set of artisan’s tools of your ch
 Weapon Training. You are proficient with two weapons of your choice.
 
 Dancing Mushrooms. As an action, you can summon a tiny dancing mushroom that does your bidding. This functions like the unseen servant spell, but the mushroom is visible instead of invisible. Once you use this ability, you can’t use it again until you finish a long rest.
-
-Darkvision. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
 Fungal Mind. Your mind doesn’t work like most humanoids. You have advantage on saving throws against being charmed and other mind-controlling effects.
 
@@ -591,8 +605,6 @@ Pixie Dust. Each day you can generate magical pixie dust from your wings. You ca
     - Invisible. The creature becomes invisible. The invisibility lasts until the end of the next turn of the creature that activated it. A creature invisible from this effect can use their action to maintain the invisibility for another round, for up to 1 minute. The invisibility ends if the invisible creature makes an attack, deals damage, or forces a creature to make a saving throw.
     - Reveal. An invisible creature becomes visible and unable to become invisible for 1 minute.
 
-Quiet Steps. You have proficiency in the Stealth skill.
-
 Shimmer Field. When you Dash or Dodge, until the end of your next turn, you become lightly obscured and opportunity attacks against you have disadvantage.
 
 Very Small. You can move through the space of any creature that is of a size larger than yours. You can’t end your turn in another creature’s space.
@@ -609,23 +621,15 @@ Necrotic Animation. You have resistance to necrotic damage.
 
 Psychic Resistance. You have resistance to psychic damage.
 
-Born in Fire. You are adapted to the most extreme heat
-environments. You ignore any of the drawbacks caused by a hot
-environment.
+Born in Fire. You are adapted to the most extreme heat environments. You ignore any of the drawbacks caused by a hot environment.
 
-Combat Training. You have proficiency with two weapons of your
-choice.
+Combat Training. You have proficiency with two weapons of your choice.
 
-Darkvision. You can see in dim light within 60 feet of you as if it
-were bright light and in darkness as if it were dim light. You can’t
-discern color in darkness, only shades of gray.
+Darkvision. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 
-Fluent. You can speak, read, and write two additional languages of
-your choice.
+Fluent. You can speak, read, and write two additional languages of your choice.
 
-Serpentine Body. You have the lower body of a snake instead of
-legs. You are immune to the prone condition unless you wish to be
-affected by it.
+Serpentine Body. You have the lower body of a snake instead of legs. You are immune to the prone condition unless you wish to be affected by it.
 
 Natural Weapon. Your a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal kinetic damage equal to 1d6 + your Strength modifier, instead of the normal damage for an unarmed attack. Your natural weapons are not weapons, but attacks with them are considered weapon attacks. This means that you can use your natural weapons for effects like the paladin’s divine smite, but not abilities that target weapons specifically.
 
@@ -691,6 +695,20 @@ Nimble Movement. You have proficiency in the Acrobatics skill.
 
 Physical Mimicry. You have advantage on all checks made to produce mimicries or duplicates of existing objects.
 
+Slow Fall. You take half damage from falling.
+
+Stealthy. You have proficiency in the Stealth skill.
+
+Throw Voice. You can make your voice sound like it is coming from somewhere else, up to 60 feet away. A creature can tell that the sound is being thrown if their passive Insight score is higher than your Charisma (Deception) check, or by succeeding on an opposed Wisdom (Insight) check against your Charisma (Deception) check.
+
+Vocal Mimicry. You can mimic sounds you have heard with near perfect accuracy. A creature can tell that the sound is a mimicry if their passive Insight score is higher than your Charisma (Deception) check, or by succeeding on an opposed Wisdom (Insight) check against your Charisma (Deception) check.
+
+Stonecunning. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+
+Sturdy. Your speed isn’t reduced by wearing heavy armor.
+
+Suspicious of Magic. You have advantage on saving throws against illusions and against being charmed or paralyzed.
+
 
 
 ### Weaknesses
@@ -700,4 +718,31 @@ Silver Weakness. You have vulnerability to damage from silvered weapons.
 
 
 
+
+### Creating a Species
+Part of exploring the wider galaxy is running into the occasional new species. Sometimes it is as simple as reskining an already existant one but on occasion you want something new or your players want something new. Sometimes they want to play something from another system or some IP these rules should allow for the creation of most of them. Since this is a 5th Edition based game basically any Race, Species ever made could be used. 
+
+> Setting Designer
+> I almost never create new races. I just use ones already made. If I need a race for an alien planet I might just pop out a green skinned humanoid with distinctive faces larhe round multifaceted eyes, tapir like snouts and a pair of saucer shaped antennae on their heads. Using this species (one for Star Wars) they actually have 5 Minor features which each is allowed 2 Major, 2 Minor and each Major can become 2 Minor. So they fit within the rules. The source says +2 Dex and +1 Con which we let our players pick a +2 and a +1 so that works. I would love to tell you I have them pick for diversity or whatever but its because I am lazy and did not want to decide what Species got what bonuses.
+
+#### Species Checklist
+1. Age
+   1. To all things a season. Everything dies, even artificial life has a life span even if it could be millenia. Age has very little affect on the game so Astra Genesis treats it as a role play element
+2. Size
+   1. There are two size options. Small or Medium. If you want to be larger or smaller use Powerful Build or Very Small feature to capture it.
+3. Speed
+   1. Small move 5 Squares (25ft) and Medium move 6 Squares (30 ft).
+4. Languages
+   1. Everyoe should know Galactic Common. It is a trade language taught everywhere. If this is some world where they are in the Bronze Age, have never been visited and they do not speak Galactic Common well as the Gamemaster you can handle that but as a rule everyone speaks Galactic Common. Everyone also speaks their native language by default.
+5. Major Features
+   1. Every species gets two Major Features. If a Major Feature has a TAG in it like "Astra" they can only have 1 with that Tag in it. 1 Major feature can become 2 Minor Features
+6. Minor Features
+   1. Every species gets 2 Minor Features. These cannot be exchanged for a third Major Feature it doesn't work that way.
+
+> On Darkvision
+> Darkvision as trait is pretty straightforward. However, the practical application of darkvision in a game is more complicated. Darkvision is one of those traits that is incredibly useful, to the point where being the only character in a group without it is a disadvantage, especially if you explore dark areas. However, if a character doesn’t have darkvision, they typically need to use a light source to see, like a torch or lantern. These are common tools, and when used, essentially replace the need for darkvision. In addition, once a light source is used, it erases the benefit creatures get from darkvision, which is the fact that they can see without light. Now there’s light, and they’ve lost their advantage.
+>
+> Setting Designer
+> When I started playing it was during 2nd Edition when Infravision was rare only a couple of Races had it. The Dungeonmaster I had was a tyrant about light sources (he still is) so I played a lot of Elves. I always felt like if there were a lot more options for Light without it being made into a big deal I may have tried more races out. In Astra Genesis between Cybernetic Augmentation, Astra, Nightvision Goggles, and Darkvision Species never assume Dark is dark as people also carry hady things called Flashlights.
+>
 
